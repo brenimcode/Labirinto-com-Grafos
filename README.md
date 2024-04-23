@@ -22,6 +22,6 @@ Funcionalidades para adicionar, remover e redefinir o ranking estão disponívei
 - ``Git/Github``
 
 ## 📁 Acesso ao projeto
-Você pode acessar o projeto clicando [aqui]https://replit.com/@brenocavalcant2/Jogo-do-Labirinto-COM-GRAFOS#Menu.c.
+Você pode acessar o projeto clicando [aqui](https://replit.com/@brenocavalcant2/Jogo-do-Labirinto-COM-GRAFOS#Menu.c).
 
 
