@@ -1,27 +1,21 @@
-<img width="1227" alt="Desenho atualizado" src="https://github.com/brenimcode/Labirinto-com-Grafos/assets/127551374/778f2ae5-7051-4040-8104-795ce0c7fb92">
+<img width="1227" alt="Updated Design" src="https://github.com/brenimcode/Labirinto-com-Grafos/assets/127551374/778f2ae5-7051-4040-8104-795ce0c7fb92">
 
+# Project Overview
+This project was completed for the Algorithms and Data Structures 2 course, developed by three UFU students, aiming to practice graphs, trees, and sorting using the C language.
 
-# Resumo do projeto
-Projeto realizado na disciplina de Algoritmos e Estrutura de Dados 2, sendo realizado por 3 integrantes da UFU, visando a prática de Grafos, arvores, ordenação com a linguagem C.
+## 🔨 Project Features
 
-## 🔨 Funcionalidades do projeto
+- `Feature 1` `Play the Maze (graphs):` Players can participate in the game by exploring a maze composed of various areas, represented as graphs.
+- `Feature 2` `Game Map Manipulation (binary tree):` The game map is built from text files representing different areas of the maze. Each maze area is represented by a graph, with connections between vertices representing points in the maze.
+- `Feature 3` `Player Registration and Management (files):` Players can register their names before starting to play. Player information is stored in a data structure, including the name, total game time, time spent in each area, and score in the central area.
+- `Feature 4` `Player Ranking:` A ranking system records player performance based on various metrics, such as total game time and score in the central area. Players can view the ranking, which can be sorted by different criteria, such as total time or score in the central area. Features to add, remove, and reset the ranking are available. InsertionSort is used to sort the ranking.
+- `Feature 5` `How to Play Instructions:` The game provides information on how to play, likely explaining the rules, controls, and objectives of the game.
 
-- `Funcionalidade 1` `Jogar o Labirinto ( grafos ):`:Os jogadores podem participar do jogo, explorando um labirinto composto por várias áreas. Sendo essas areas grafos.
-- `Funcionalidade 2` `Manipulação do Mapa do Jogo ( arvore binaria )`: O mapa do jogo é construído a partir de arquivos de texto que representam diferentes áreas do labirinto. Cada área do labirinto é representada por um grafo, com conexões entre os diferentes vértices que representam pontos no labirinto.
-- `Funcionalidade 3` `Registro e Manipulação de Jogadores( arquivos )`: Os jogadores podem registrar seus nomes antes de começar a jogar.
-As informações do jogador são armazenadas em uma estrutura de dados, incluindo o nome, tempo total de jogo, tempo gasto em cada área e pontuação na área central.
-- `Funcionalidade 4` `Ranking de Jogadores`:Um sistema de ranking registra o desempenho dos jogadores com base em diferentes métricas, como tempo total de jogo e pontuação na área central.
-Os jogadores podem visualizar o ranking, que pode ser ordenado de acordo com diferentes critérios, como tempo total ou pontuação na área central.
-Funcionalidades para adicionar, remover e redefinir o ranking estão disponíveis. É usado o InsertionSort para ordenar o rank.
-- `Funcionalidade 5` `Instruções de Como Jogar`: O jogo fornece informações sobre como jogar, provavelmente explicando as regras, controles e objetivos do jogo.
-
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Techniques and Technologies Used
 
 - ``C``
-- ``Vs code``
-- ``Git/Github``
+- ``VS Code``
+- ``Git/GitHub``
 
-## 📁 Acesso ao projeto
-Você pode acessar o projeto clicando [aqui](https://replit.com/@brenocavalcant2/Jogo-do-Labirinto-COM-GRAFOS#Menu.c).
-
-
+## 📁 Access the Project
+You can access the project by clicking [here](https://replit.com/@brenocavalcant2/Jogo-do-Labirinto-COM-GRAFOS#Menu.c).
